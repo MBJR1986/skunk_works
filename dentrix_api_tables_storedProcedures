@@ -1,0 +1,97 @@
+Table View / Stored Proc Name	Title	Dentrix Availability
+v_account_notes	Account / Guarantor Notes	G6+
+v_adjustment_types	Adjustment Types	G5.2+
+v_address	N/A	N/A
+v_appointment	N/A	N/A
+v_coverage_table	N/A	N/A
+v_docattach	Document Attachments	G6.3+
+v_document	Document Information	G5+
+v_insured	Insured Subscribers	G5+
+v_lab_case	Dental Lab Cases	G5+
+v_notes	Notes	G6+
+v_patient_appointment	Appointments	G6+
+v_patient_prescription	Patient Prescriptions	G6+
+v_patient_recall	All Patients’ Recall Information (View)	G5+
+v_patientalertlinks	Patient Alert Links	FR - TBD
+v_patientalerts	Patient Alerts	G6.3+
+v_perio	Perio Exam Records	G6+
+v_prescriptiontemplates	Practice Prescription (Prescription Template)	G6+
+v_proccodes	Procedure Codes	G6+
+v_proclog	Ledger Transactions	G6+
+v_provider	Providers (View)	G5+
+v_recall_type	Recall Type	G5+
+v_referral	Referral Source (View)	G5+
+v_referral_acts	Referral Gratuity Acts	G6.3+
+v_referral_specialty	Referral Specialty	G5+
+v_timeclockpunches	Time Clock Punches	G6.3+
+v_timeclocksetup	Time Clock Setup	G6.3+
+v_appointment_checklist	Appointment Check List	G5.2+
+v_appointment_types	Appointment Types	G5.2+
+v_appointment	Appointments	G5+
+v_appt_book_events	Appointment Book Events	G5.2+
+v_appt_status_codes	Appointment Status Codes	G5+
+v_billing_types	Billing Types	G5.2+
+v_clinical_notes	Patient Clinical Notes	G5.2+
+v_document_types	Document Types	G5+
+v_employers	Employers	G5.2+
+v_guarantor_balance	Guarantor’s Balance	G5+
+v_initial_reasons	Appointment Initial Reasons	G5.2+
+v_insurance_plans	Insurance Plans	G5+
+v_insurance_plan_notes	Insurance Plan Notes	G6+
+v_insured	Insured	Subscribers	G6+
+v_lab	Dental Labs	G6+
+v_operatory	Operatories	G5+
+v_patient	Patient Demographics (View)	G5+
+v_patient_insurance	Patient’s Dental Insurance Information	G5+
+v_payment_types	Payment Types	G5.2+
+v_practice_information	Practice	G5.2+
+v_practice_medical_alerts	Practice Medical Alerts	G5.2+
+v_rx_patient	Patient Prescriptions	G5+
+v_rxlist	Practice Prescriptions	G5+
+v_staff	Staff	G5+
+sp_appointments	Modified Appointments	G5.2+
+sp_apptbookdaynote	Appointment Book Day Note	G5+
+sp_getaccountpayments	Account Payments	G5+
+sp_getallpatientrecalls	All Patients’ Recall Information	G5+
+sp_getallpatientsappointmentinfo	All Patients’ Appointment Information	G5+
+sp_getallpatientsinsuranceinfo	All Patients’ Dental Insurance Information	G5+
+sp_getallproviders	Providers	G5+
+sp_getallproviderspecialties	Provider Specialty	G5+
+sp_getallprovidersproduction	All Providers’ Production	G5+
+sp_getallreferralspecialties	Referral Specialty	G5+
+sp_getguarpmtagreement	Guarantor’s Payment Agreement	G5+
+sp_getpatientadjustments	Patient’s Adjustments	G5+
+sp_getpatientappointmentinfo	Patient’s Appointment Information	G5.2+
+sp_getpatientbalance	Patient’s Balance	G5+
+sp_getpatientmedalerts	Patient’s Medical Alerts	G5+
+sp_getpatientnextapptdatetime	Patient’s Next Appointment Date and Time	G5.2+
+sp_getpatientofficejournal	Patient’s Office Journal Entries	G5+
+sp_getpatientpreviousapptdatetime	Patient’s Previous Appointment Date/Time	G5+
+sp_getpatientprocedures	Patient’s Completed Procedures	G5+
+sp_getpatientrecalls	Patient Recall	G5.2+
+sp_getpatientreferrals	Patient’s Referrals	G5+
+sp_getpatienttreatmentplan	Patient’s Treatment Planned Procedures	G5+
+sp_getpracticeschedule	Practice Default Schedule	G6+
+sp_getproviderschedule	Provider Default Schedule	G6+
+sp_getoperatoryschedule	Operatory Default Schedule	G6+
+sp_getpracticeschedexceptions	Practice Schedule Exceptions	G6+
+sp_getprovschedexceptions	Provider Schedule Exceptions	G6+
+sp_getoperatoryschedexceptions	Operatory Schedule Exceptions	G6+
+sp_getprovidermonthtotals	Provider Analysis Totals	G5+
+sp_getproviderofficejournal	Provider’s Office Journal Entries	G5+
+sp_getproviderproduction	Provider’s Production	G5+
+sp_getreferralofficejournal	Referral’s Office Journal Entries	G5+
+sp_getreferralsource	Referral Source	G5+
+sp_patient	Patient Demographics (Stored Procedure)	G5.1+
+sp_getappointmentunitsize	Appointment Unit Size	G6+
+sp_getapptamountsetting	Appointment Amount Setting	G6+
+sp_getbillingtypes	N/A	N/A
+sp_getdentition	N/A	N/A
+sp_getletters	N/A	N/A
+sp_getmedicalalertslist	N/A	N/A
+sp_getpaymenttypes	N/A	N/A
+sp_getperioexam	Perio Exam Data	G6+
+sp_getpracticeinformation	N/A	N/A
+sp_getprovtimeblockdefault	N/A	N/A
+sp_getprovtimeblockschedule	N/A	N/A
+sp_getquickletters	N/A	N/A
